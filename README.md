@@ -37,14 +37,3 @@
 	<img src="https://github.com/ajay007e/ajay007e/blob/output/github-contribution-grid-snake.gif"/>
 <!-- 	<img src="https://github-profile-trophy.vercel.app/?username=ajay007e&theme=merko&no-frame=false&no-bg=true&margin-w=3&row=1"/> -->
 </div>
-
-	
----
-
-
-
-
-
-
-
-
