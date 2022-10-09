@@ -10,7 +10,7 @@
 	<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45"width="45" /> 
 </h1>
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=25&pause=1000&color=42B883&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Competitive+Programmer;DS+%7C+Algorithms+%7C+OPP;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 <!-- ## 📈 Activity Graph -->
 <p align="center">
